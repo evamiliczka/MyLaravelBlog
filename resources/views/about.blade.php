@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.blog')
 
 @section('content')
     <h2 class="text-3xl font-bold">About Us</h2>
